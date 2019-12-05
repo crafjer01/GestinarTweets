@@ -9,6 +9,15 @@ h1, h2 {
 .borrar-tweet:hover {
     float: right;
     cursor: pointer;
-    color: red;
+    color: white;
     font-weight: bold;
+}
+.list{
+	list-style: none;
+    background: #ff00f7;
+    color: white;
+    padding: 3px 10px;
+    font-weight: 700;
+	opacity: 1;
+	transition: 0.5s;
 }
